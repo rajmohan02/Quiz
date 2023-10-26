@@ -1,0 +1,36 @@
+body{
+    background-color: #DFD6A7;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-image: url("https://i.pinimg.com/originals/db/34/d4/db34d40b271fb59477621550bf73ea0b.jpg");
+    background-position: center;
+    background-size: auto;
+}
+
+h2{
+    font-size: 20px;
+}
+#ques{
+    border-collapse: separate;
+    border-spacing: 0 30px ;
+}
+
+td{
+    border-radius: 10px;
+}
+
+#q{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-size: auto;
+    border-radius: 500px
+}
+
+#s{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+#s:hover{
+    background-color: #3452c9;
+    color: white;
+}
